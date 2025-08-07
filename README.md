@@ -22,3 +22,4 @@ omce function/component ardından test yazılır
 bütün dinamik özellikler test edilir
 # iceCream_App
 # iceCream_App
+# IceCream_App

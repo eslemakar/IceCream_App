@@ -21,3 +21,4 @@ omce function/component ardından test yazılır
 ## 100% test coverage
 bütün dinamik özellikler test edilir
 # iceCream_App
+# iceCream_App

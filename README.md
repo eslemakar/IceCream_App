@@ -1,25 +1,20 @@
-# kütüphaneler
-react-router-dom
-react-toastify
-tailwindcss
-json-server
-axios
-react-icons
-@reduxjs/toolkit
-redux-mock-store
-react-testing-library
-jest
+# 🍦 Ice Cream App
 
+This project is a **React**-based ice cream application developed using **Test Driven Development (TDD)** and **Behaviour Driven Development (BDD)** approaches.  
+It has **100% test coverage** with unit tests implemented using **Jest** and **React Testing Library**.
 
-## test driven development (tdd)
-once testler ardından function/component yazılır
-red to green
+## <3 Features
 
-## behaviour driven development (bdd)
-omce function/component ardından test yazılır
+- 🍦 **React Router DOM** for multi-page navigation  
+- 🍦 **React Toastify** for user-friendly notifications  
+- 🍦 **TailwindCSS** for modern and responsive design  
+- 🍦 **JSON Server** for mock backend API  
+- 🍦 **Axios** for API requests  
+- 🍦 **React Icons** for icon support  
+- 🍦 **@reduxjs/toolkit** for global state management  
+- 🍦 **redux-mock-store** for testing Redux store  
+- 🍦 **TDD** approach  
+- 🍦 **BDD** approach  
+- 🍦 **100% test coverage**
 
-## 100% test coverage
-bütün dinamik özellikler test edilir
-# iceCream_App
-# iceCream_App
-# IceCream_App
+  ![DONDURMA](https://github.com/user-attachments/assets/73855fa7-b2f6-4e63-a0ee-6e323e01e01d)

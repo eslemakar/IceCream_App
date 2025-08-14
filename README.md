@@ -17,4 +17,9 @@ It has **100% test coverage** with unit tests implemented using **Jest** and **R
 - 🍦 **BDD** approach  
 - 🍦 **100% test coverage**
 
-  ![DONDURMA](https://github.com/user-attachments/assets/73855fa7-b2f6-4e63-a0ee-6e323e01e01d)
+- #GIF
+
+![ezgif-3dff408be023ab](https://github.com/user-attachments/assets/51565508-6883-4475-922e-aff89263db3f)
+
+
+![DONDURMA](https://github.com/user-attachments/assets/73855fa7-b2f6-4e63-a0ee-6e323e01e01d)

@@ -1,7 +1,5 @@
 # 🍦 Ice Cream App
-<img width="100" height="300" alt="fd233138-72ae-4b0d-b341-eab3699fdfb0" src="https://github.com/user-attachments/assets/3d25e132-8b6b-4f7c-b6b8-f65253e6ad4f" />
-
-This project is a **React**-based ice cream application developed using **Test Driven Development (TDD)** and **Behaviour Driven Development (BDD)** approaches.  
+<img width="100" height="300" alt="fd233138-72ae-4b0d-b341-eab3699fdfb0" src="https://github.com/user-attachments/assets/3d25e132-8b6b-4f7c-b6b8-f65253e6ad4f" /> This project is a **React**-based ice cream application developed using **Test Driven Development (TDD)** and **Behaviour Driven Development (BDD)** approaches.  
 It has **100% test coverage** with unit tests implemented using **Jest** and **React Testing Library**.
 
 ## <3 Features
